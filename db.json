@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "mouse",
+      "price": "100",
+      "count": 1,
+      "imgSrc": "https://res.cloudinary.com/dqvmb3dkf/image/upload/v1678454575/images/qbybcpflo2wm6roaqsjf.jpg",
+      "inCart": false,
+      "category": "Electronics",
+      "stars": "1.7",
+      "ratings": 57,
+      "Reviews": 17,
+      "messageFromAdmin": "",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "mustafa",
+      "email": "mustafasaied97@gmail.com",
+      "password": "dsdsdcsdc",
+      "products": [
+        {
+          "name": "chair",
+          "price": "123",
+          "count": 1,
+          "imgSrc": "https://res.cloudinary.com/dqvmb3dkf/image/upload/v1678454528/images/d70damv091n6sxyxmrao.jpg",
+          "inCart": true,
+          "category": "Furniture",
+          "stars": "2.7",
+          "ratings": 26,
+          "Reviews": 40,
+          "messageFromAdmin": "Sold Out",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "mu",
+      "email": "mustafasaied7@gmail.com",
+      "password": "dsdsdcsdc",
+      "products": [],
+      "id": 2
+    },
+    {
+      "name": "m",
+      "email": "mustafasaied749@gmail.com",
+      "password": "dsdsdcsdc",
+      "products": [],
+      "id": 3
+    }
+  ]
+}
